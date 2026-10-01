@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+body h1 {
+    color: red;
+}
+/* Apply this selector to the element on which this effects needs to be applied*/
+.blurryText {
+	color: transparent;
+	text-shadow: 0 0 5px rgba(131,246,228,0.8);
+}
